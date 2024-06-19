@@ -1,34 +1,40 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link href="../styles/style-animate.css" rel="stylesheet" type="text/css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
-</head>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link href="../styles/style-animate.css" rel="stylesheet" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    </head>
 
-<body>
-    <h1>Les croute : LE JEU !!!</h1>
-    <a href="../index.html">Page principale</a>
-    <center>
-        <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
-        <script type='text/javascript'>
-            var Module = {
-                canvas: (function() { return document.getElementById('canvas'); })()
-            };
-        </script>
-        <script src="animate.js"></script>
-    </center>
-<h2>Contrôles :</h2>
-<p>← Q, → D, ↑ Z, ↓ S (sur un clavier AZERTY), Sauter : ESPACE</p>
-<p>
-    Jeu réalisé en C et SDL2, portage en Web Assembly avec Emscripten.
-    <a href="https://github.com/marcie1000/les-croute-animate">Code source</a>
-</p>
-
-</body>
+    <body>
+        <h1>Les croute : LE JEU !!!</h1>
+        <a href="../index.html">Page principale</a>
+        <div class="flex-cont">
+            <div class="side">
+                <center>
+                    <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+                    <script type='text/javascript'>
+                     var Module = {
+                         canvas: (function() { return document.getElementById('canvas'); })()
+                     };
+                    </script>
+                    <script src="animate.js"></script>
+                </center>
+            </div>
+            <div class="side">
+                <h2>Contrôles :</h2>
+                <p>← Q, → D, ↑ Z, ↓ S (sur un clavier AZERTY), Sauter : ESPACE</p>
+                <p>
+                    Jeu réalisé et mini moteur de jeu codé en C et SDL2, portage en Web Assembly avec Emscripten.
+                    <a href="https://github.com/marcie1000/les-croute-animate">Code source</a>
+                </p>
+                <p>Niveau créé avec un petit level editor réalisé par mes soins que je publieraisans doute un jour...</p>
+            </div>
+        </div>
+    </body>
 
 </html>

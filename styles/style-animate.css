@@ -20,7 +20,6 @@ h2{
 
 p, li {
   font-size: 16px;
-  line-height: 0.5;
   letter-spacing: 1px;
   color: white;
 }
@@ -33,6 +32,10 @@ p, li {
   border: 5px solid black;
 }*/
 
+body {
+  margin: 15px 0px 15px 15px;
+}
+
 img {
   display: block;
   margin: 0 auto;
@@ -43,4 +46,12 @@ a {
   line-height: 2;
   letter-spacing: 1px;
   color: rgb(151, 217, 255);
+}
+
+.flex-cont {
+  display: flex;
+}
+
+.side {
+  margin-right: 15px;
 }
