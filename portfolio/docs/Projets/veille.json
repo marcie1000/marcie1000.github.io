@@ -1,0 +1,1130 @@
+[
+    {
+        "commentaire": "",
+        "date_publication": "18/09/2024",
+        "excerpt": "Stay up to date with events, learning resources, and recent developments in the Rust community.",
+        "has_video": "0",
+        "is_article": "0",
+        "item_id": "694834071",
+        "resolved_title": "This Week in Rust",
+        "resolved_url": "https://this-week-in-rust.org/",
+        "tags": {
+            "news": {
+                "item_id": "694834071",
+                "tag": "news"
+            },
+            "rust": {
+                "item_id": "694834071",
+                "tag": "rust"
+            }
+        },
+        "time_added": "03/11/2024",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "22"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Pour les articles homonymes, voir Rust et Mozilla. Rust est un langage de programmation compilé multi-paradigme qui met l'accent sur la performance, la sûreté des types et la concurrence.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "826258572",
+        "resolved_title": "Rust (langage)",
+        "resolved_url": "https://fr.wikipedia.org/wiki/Rust_(langage)",
+        "tags": {
+            "rust": {
+                "item_id": "826258572",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "26",
+        "type_info": "",
+        "word_count": "5257"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Let’s jump into Rust by working through a hands-on project together! This chapter introduces you to a few common Rust concepts by showing you how to use them in a real program.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "2419762064",
+        "resolved_title": "The Rust Programming Language",
+        "resolved_url": "https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html",
+        "tags": {
+            "livre": {
+                "item_id": "2419762064",
+                "tag": "livre"
+            },
+            "rust": {
+                "item_id": "2419762064",
+                "tag": "rust"
+            }
+        },
+        "time_added": "15/09/2024",
+        "time_to_read": "30",
+        "type_info": "",
+        "word_count": "6522"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "If you've ever programmed in C or C++, you know that its incredibly easy to make mistakes. These mistakes manifest in the form of bugs that can leave your code either broken or taken advantage of.\n\nIn this video, we dive face fist into a new language: Rust. Rust was developed by Mozilla with an emph",
+        "has_video": "2",
+        "is_article": "0",
+        "item_id": "3540827894",
+        "resolved_title": "The C Programming Language is Over 50 Years Old, So Today I Learned Rust",
+        "resolved_url": "https://www.youtube.com/watch?v=nxpKv0QWs-o",
+        "tags": {
+            "rust": {
+                "item_id": "3540827894",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "0",
+        "type_info": "pedago",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "Le gouvernement Américain préconise l'utilisation de langages 'memory-safe'",
+        "date_publication": "13/09/2024",
+        "excerpt": "The government would prefer it if you stopped programming tools in C or C++. In a new report, the White House Office of the National Cyber Director (ONCD) has called on developers to use 'memory-safe programming languages,' a category which excludes the popular languages. The advice is part of U.S.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4015102588",
+        "resolved_title": "White House urges developers to avoid C and C++, use 'memory-safe' programming languages",
+        "resolved_url": "https://www.tomshardware.com/software/security-software/white-house-urges-developers-to-avoid-c-and-c-use-memory-safe-programming-languages",
+        "tags": {
+            "maison blanche": {
+                "item_id": "4015102588",
+                "tag": "maison blanche"
+            },
+            "rust": {
+                "item_id": "4015102588",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "3",
+        "type_info": "news",
+        "word_count": "724"
+    },
+    {
+        "commentaire": "Nouveau consortium pour décider des spécifications de Rust pour les systèmes où la sécurité du code est critique. Avec The Rust Foundation, AdaCore, Arm, Ferrous Systems, HighTec EDV-Systeme GmbH, OxidOS, TECHFUND, TrustInSoft, Veecle, Lynx Software Technologies, and Woven by Toyota make up the new group dedicated to the responsible use of Rust in safety-critical software.",
+        "date_publication": "15/09/2024",
+        "excerpt": "In a move to revolutionize the landscape of safety-critical software, The Rust Foundation has united key vendors &mdash; including Arm and Toyota &mdash; and experts to form the Safety-Critical Rust Consortium, paving the way for the adoption of the Rust programming language in systems where failure",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4062805687",
+        "resolved_title": "Rust: The Future of Fail-Safe Software Development",
+        "resolved_url": "https://thenewstack.io/rust-the-future-of-fail-safe-software-development/ ",
+        "tags": {
+            "avantages": {
+                "item_id": "4062805687",
+                "tag": "avantages"
+            },
+            "pédago": {
+                "item_id": "4062805687",
+                "tag": "pédago"
+            },
+            "rust": {
+                "item_id": "4062805687",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "5",
+        "type_info": "",
+        "word_count": "1031"
+    },
+    {
+        "commentaire": "Conflits au sein de la communauté des développeurs Linux. Un des leaders du projet quitte le développement.",
+        "date_publication": "20/09/2024",
+        "excerpt": "The Linux kernel is not a place to work if you're not ready for some, shall we say, spirited argument. Still, one key developer in the project to expand Rust's place inside the largely C-based kernel feels the 'nontechnical nonsense' is too much, so he's retiring.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4098178505",
+        "resolved_title": "Rust in Linux lead retires rather than deal with more “nontechnical nonsense”",
+        "resolved_url": "https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/ ",
+        "tags": {
+            "difficultés": {
+                "item_id": "4098178505",
+                "tag": "difficultés"
+            },
+            "problèmes": {
+                "item_id": "4098178505",
+                "tag": "problèmes"
+            },
+            "rust": {
+                "item_id": "4098178505",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "4",
+        "type_info": "",
+        "word_count": "776"
+    },
+    {
+        "commentaire": "Conflits au sein de la communauté des développeurs Linux. Un des leaders du projet quitte le développement.",
+        "date_publication": "",
+        "excerpt": "There has been drama around Rust in Linux since the very beginning, but this recently came to a head with a situation where one of the major contributors to rust for linux decided to retire from the project citing some non technical drama.\n\n==========Support The Channel==========\n► Patreon: https:",
+        "has_video": "2",
+        "is_article": "0",
+        "item_id": "4098734227",
+        "resolved_title": "Was Rust In The Linux Kernel A Mistake?",
+        "resolved_url": "https://www.youtube.com/watch?v=-w4H2-LLVdY",
+        "tags": {
+            "difficultés": {
+                "item_id": "4098734227",
+                "tag": "difficultés"
+            },
+            "problèmes": {
+                "item_id": "4098734227",
+                "tag": "problèmes"
+            },
+            "rust": {
+                "item_id": "4098734227",
+                "tag": "rust"
+            }
+        },
+        "time_added": "14/09/2024",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "Projet de compilateur Rust pour .NET.",
+        "date_publication": "",
+        "excerpt": "I am currently working on a Rust to .NET compiler, rustc_codegen_clr. To get it to work, I need to implement many Rust features using .NET APIs. One of such features is panicking and unwinding.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4107831000",
+        "resolved_title": "Rust panics under the hood, and implementing them in .NET",
+        "resolved_url": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html",
+        "tags": {
+            ".net": {
+                "item_id": "4107831000",
+                "tag": ".net"
+            },
+            "rust": {
+                "item_id": "4107831000",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "5297"
+    },
+    {
+        "commentaire": "Rust dans Linux",
+        "date_publication": "25/09/2024",
+        "excerpt": "",
+        "has_video": "0",
+        "is_article": "0",
+        "item_id": "4108647928",
+        "resolved_title": "https://lwn.net/Articles/991062/",
+        "resolved_url": "https://lwn.net/Articles/991062/ ",
+        "tags": {
+            "linux": {
+                "item_id": "4108647928",
+                "tag": "linux"
+            },
+            "rust": {
+                "item_id": "4108647928",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "Une bibliothèque Rust permettant de développer des runties Javascript.",
+        "date_publication": "30/09/2024",
+        "excerpt": "Deno is a modern, zero-config JavaScript runtime written in Rust. At its core is Rusty V8, a library that provides high-quality, zero-overhead Rust bindings to V8’s C++ API. Over the past five years, Rusty V8 has undergone nearly 150 releases, racking up more than 3.1 million downloads on crates.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4108722748",
+        "resolved_title": "Announcing Stable V8 Bindings for Rust",
+        "resolved_url": "https://deno.com/blog/rusty-v8-stabilized",
+        "tags": {
+            "bibliothèque": {
+                "item_id": "4108722748",
+                "tag": "bibliothèque"
+            },
+            "rust": {
+                "item_id": "4108722748",
+                "tag": "rust"
+            }
+        },
+        "time_added": "11/03/2025",
+        "time_to_read": "4",
+        "type_info": "",
+        "word_count": "894"
+    },
+    {
+        "commentaire": "Évolution de Rust pour Webassembly.",
+        "date_publication": "24/09/2024",
+        "excerpt": "The Rust compiler has recently upgraded to using LLVM 19 and this change accompanies some updates to the default set of target features enabled for WebAssembly targets of the Rust compiler. Beta Rust today, which will become Rust 1.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4108953679",
+        "resolved_title": "WebAssembly targets: change in default target-features",
+        "resolved_url": "https://blog.rust-lang.org/2024/09/24/webassembly-targets-change-in-default-target-features.html",
+        "tags": {
+            "rust": {
+                "item_id": "4108953679",
+                "tag": "rust"
+            },
+            "web assembly": {
+                "item_id": "4108953679",
+                "tag": "web assembly"
+            }
+        },
+        "time_added": "11/03/2025",
+        "time_to_read": "10",
+        "type_info": "",
+        "word_count": "2183"
+    },
+    {
+        "commentaire": "Google utilise de plus en plus Rust dans le développent d'Android, et a découvert que les vulnérabilités mémoire ont chuté de 76% à 24% en six ans grâce à cela.",
+        "date_publication": "28/09/2024",
+        "excerpt": "Google has revealed that its transition to memory-safe languages such as Rust as part of its secure-by-design approach has led to the percentage of memory-safe vulnerabilities discovered in Android dropping from 76% to 24% over a period of six years.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4109545355",
+        "resolved_title": "Google's Shift to Rust Programming Cuts Android Memory Vulnerabilities by 52%",
+        "resolved_url": "https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html",
+        "tags": {
+            "android": {
+                "item_id": "4109545355",
+                "tag": "android"
+            },
+            "google": {
+                "item_id": "4109545355",
+                "tag": "google"
+            },
+            "rust": {
+                "item_id": "4109545355",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "3",
+        "type_info": "",
+        "word_count": "585"
+    },
+    {
+        "commentaire": "Le framework 'Ruby on rails' est réécrit en Rust.",
+        "date_publication": "",
+        "excerpt": "👉 To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/CodetotheMoon/ You’ll also get 20% off an annual premium subscription. They have courses on LLMs and Quantum Computing!\n\nA quick look at the Loco.rs Rust crate, which aims to recreate much of the",
+        "has_video": "2",
+        "is_article": "0",
+        "item_id": "4115063166",
+        "resolved_title": "A Legendary Web Framework is Reborn... In Rust",
+        "resolved_url": "https://www.youtube.com/watch?v=7utPutDORb4 ",
+        "tags": {
+            "framework": {
+                "item_id": "4115063166",
+                "tag": "framework"
+            },
+            "rust": {
+                "item_id": "4115063166",
+                "tag": "rust"
+            },
+            "web": {
+                "item_id": "4115063166",
+                "tag": "web"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "Rust est désormais utilisé par Volvo pour la gestion de l'énergie de ses voitures électriques.",
+        "date_publication": "05/10/2024",
+        "excerpt": "A while back, I had the fortune to talk with Julius Gustavsson from Sweden and he squarely falls in the last category of people. From 2019 onwards, he has been the main software architect for the low-power processor ECU (electronic control unit) at Volvo.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4115841025",
+        "resolved_title": "Rust is rolling off the Volvo assembly line",
+        "resolved_url": "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line ",
+        "tags": {
+            "rust": {
+                "item_id": "4115841025",
+                "tag": "rust"
+            },
+            "volvo": {
+                "item_id": "4115841025",
+                "tag": "volvo"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "6",
+        "type_info": "",
+        "word_count": "1405"
+    },
+    {
+        "commentaire": "Un développeur Rust explique son expérience de codage Rust <<Unsafe>>, et à quel point c'est plus difficile que de coder en C.",
+        "date_publication": "10/10/2024",
+        "excerpt": "Some of you already know the contents of this post, especially if you’ve written embedded or unsafe code in Rust. But I didn’t, so I thought it was useful to write down my experience as accurately as I can. Without further ado…",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4124739080",
+        "resolved_title": "Unsafe Rust Is Harder Than C",
+        "resolved_url": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/",
+        "tags": {
+            "comparaison avec le c": {
+                "item_id": "4124739080",
+                "tag": "comparaison avec le c"
+            },
+            "rust": {
+                "item_id": "4124739080",
+                "tag": "rust"
+            },
+            "unsafe": {
+                "item_id": "4124739080",
+                "tag": "unsafe"
+            }
+        },
+        "time_added": "04/11/2024",
+        "time_to_read": "17",
+        "type_info": "pedago",
+        "word_count": "3633"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "15/07/2013",
+        "excerpt": "Welcome once again to the official r/rust Who's Hiring thread!\n\nBefore we begin, job-seekers should also remember to peruse the [prior thread](https:/",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4126886802",
+        "resolved_title": "Official /r/rust 'Who's Hiring' thread for job-seekers and job-offerers [Rust 1.82]",
+        "resolved_url": "https://www.reddit.com/r/rust/comments/1gf5ue1/official_rrust_whos_hiring_thread_for_jobseekers/",
+        "tags": {
+            "jobs": {
+                "item_id": "4126886802",
+                "tag": "jobs"
+            },
+            "rust": {
+                "item_id": "4126886802",
+                "tag": "rust"
+            }
+        },
+        "time_added": "04/11/2024",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "748"
+    },
+    {
+        "commentaire": "Asahi Linux est un projet visant à porter Linux sur la nouvelle architecture de processeurs Apple Silicon, présents sur les ordinateurs Mac. Le driver de la carte graphique de ces machines pour Asahi Linux est écrit en Rust. Lors de la X.Org Developers Conference (XDC) 2024, Alyssa Rosenzweig a présenté les progrès réalisés, notamment la conformité du pilote aux standards OpenGL 4.6. Cependant, l'utilisation du tessellateur matériel des GPU Apple est limitée en raison de certaines fonctionnalités manquantes, ce qui oblige les développeurs à recourir à des solutions logicielles pour implémenter la tessellation. Malgré ces défis, le pilote a atteint une conformité avec OpenCL 3.0, grâce aux efforts de Karol Herbst, bien que cette version ne soit pas encore publiée.",
+        "date_publication": "30/10/2024",
+        "excerpt": "The following subscription-only content has been made available to you by an LWN subscriber. Thousands of subscribers depend on LWN for the best news from the Linux and free software communities. If you enjoy this article, please consider subscribing to LWN. Thank you for visiting LWN.net!",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4127893806",
+        "resolved_title": "An update on Apple M1/M2 GPU drivers",
+        "resolved_url": "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/ ",
+        "tags": {
+            "apple silicon": {
+                "item_id": "4127893806",
+                "tag": "apple silicon"
+            },
+            "asahi linux": {
+                "item_id": "4127893806",
+                "tag": "asahi linux"
+            },
+            "rust": {
+                "item_id": "4127893806",
+                "tag": "rust"
+            }
+        },
+        "time_added": "04/11/2024",
+        "time_to_read": "8",
+        "type_info": "",
+        "word_count": "1861"
+    },
+    {
+        "commentaire": "Google Summer of Code est un programme mondial en ligne visant à apporter de nouveaux contributeurs à des projets de développement Open Source. Le Projet Rust y a participé en 2024 pour la première fois avec 9 contributeurs. Les projets réalisés : une amélioration de Cargo (l'outil de build et de gestion de dépendances de Rust) pour l'analyse des fichiers de configurations de versions; une amélioration de Cranelift, un des backends du compilateur Rust; une amélioration de Rust Benchmark Suite; l'ajout de fonctionalité de tests avec Cargo et le compilateur Rust to .NET; etc.",
+        "date_publication": "07/11/2024",
+        "excerpt": "As we have previously announced, the Rust Project participated in Google Summer of Code (GSoC) for the first time this year. Nine contributors have been tirelessly working on their exciting projects for several months.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4130985953",
+        "resolved_title": "Google Summer of Code 2024 results",
+        "resolved_url": "https://blog.rust-lang.org/2024/11/07/gsoc-2024-results.html",
+        "tags": {
+            "rust": {
+                "item_id": "4130985953",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "15",
+        "type_info": "",
+        "word_count": "3231"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Hello and welcome to another issue of This Week in Rust! Rust is a programming language empowering everyone to build reliable and efficient software. This is a weekly summary of its progress and community.",
+        "has_video": "0",
+        "is_article": "0",
+        "item_id": "4137542427",
+        "resolved_title": "This Week in Rust 574 · This Week in Rust",
+        "resolved_url": "https://this-week-in-rust.org/blog/2024/11/20/this-week-in-rust-574/",
+        "tags": {
+            "rust": {
+                "item_id": "4137542427",
+                "tag": "rust"
+            },
+            "rustconf": {
+                "item_id": "4137542427",
+                "tag": "rustconf"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "830"
+    },
+    {
+        "commentaire": "La communauté des développeurs du logiciel Git discute de l'éventuelle ajout de Rust dans le code source du logiciel.",
+        "date_publication": "22/11/2024",
+        "excerpt": "",
+        "has_video": "0",
+        "is_article": "0",
+        "item_id": "4138336649",
+        "resolved_title": "NonStop discussion around adding Rust to Git",
+        "resolved_url": "https://lwn.net/Articles/998115/",
+        "tags": {
+            "git": {
+                "item_id": "4138336649",
+                "tag": "git"
+            },
+            "rust": {
+                "item_id": "4138336649",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "news",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "Un article comparant la gestion de la mémoire en langage C et en Rust.",
+        "date_publication": "25/11/2024",
+        "excerpt": "Memory management is critical to ensuring that any application runs efficiently and makes optimal use of hardware resources. It involves precise control over allocation, usage, and deallocation — essential for maintaining program stability, security, and maximizing efficiency.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4141042824",
+        "resolved_title": "Memory Management in C and Rust: A Comparative Analysis",
+        "resolved_url": "https://medium.com/@rustincode.dev/memory-management-in-c-and-rust-a-comparative-analysis-6d62807b9f0b",
+        "tags": {
+            "comparaison avec le c": {
+                "item_id": "4141042824",
+                "tag": "comparaison avec le c"
+            },
+            "rust": {
+                "item_id": "4141042824",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "11",
+        "type_info": "pedago",
+        "word_count": "2334"
+    },
+    {
+        "commentaire": "Il est désormais plus facile de développer des pilots en Rust pour Linux, grâce à des évolutions apportées dans la version 6.13 du noyau.",
+        "date_publication": "30/11/2024",
+        "excerpt": "In addition to the USB updates and big staging flush merged yesterday for the Linux 6.13 kernel merge window, the 'char/misc' pull was also honored for that catch-all of various kernel changes.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4142104342",
+        "resolved_title": "Linux 6.13 Hits A 'Tipping Point' With More Rust Drivers Expected Soon",
+        "resolved_url": "https://www.phoronix.com/news/Linux-6.13-char-misc-More-Rust",
+        "tags": {
+            "linux": {
+                "item_id": "4142104342",
+                "tag": "linux"
+            },
+            "rust": {
+                "item_id": "4142104342",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "news",
+        "word_count": "286"
+    },
+    {
+        "commentaire": "Un article expliquant en quoi le compilateur Rust a un fonctionnement novateur par rapport à des compilateurs plus traditionnels. Les compilateurs traditionnels fonctionnent suivant un processus de <<parsing>>, vérification de types, optimisation, et génération de code. Mais les langages plus modernes et les nouvelles exigences tels que l'intégration aux IDE pousse les compilateurs à évoluer vers une approche différente, la compilation incrémentale. Le temps de compilation du compilateur Rust s'est significativement améliorée grâce à cela.",
+        "date_publication": "03/12/2024",
+        "excerpt": "The traditional structure of a compiler forms a pipeline — parsing, type-checking, optimization, and code-generation, usually in that order. But modern programming languages have requirements that are ill-suited to such a design.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4143757985",
+        "resolved_title": "Rust's incremental compiler architecture",
+        "resolved_url": "https://lwn.net/Articles/997784/",
+        "tags": {
+            "compilateur": {
+                "item_id": "4143757985",
+                "tag": "compilateur"
+            },
+            "rust": {
+                "item_id": "4143757985",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "7",
+        "type_info": "pedago",
+        "word_count": "1436"
+    },
+    {
+        "commentaire": "Un développeur d'une bibliothèque de décodage d'images au format PNG en langage Rust partage des tests comparatifs qu'il a effectués entre plusieurs de ces bibliothèques écrites en Rust, et plusieurs de ces bibliothèques écrites dans d'autres langages (notamment le C). Ses résultats indiquent que les bibliothèques écrites en Rust sont désormais largement plus performantes que celles écrites en C. Il explique ces résultats et comment ils ont été mesurés.",
+        "date_publication": "09/12/2024",
+        "excerpt": "**TL;DR:** Memory-safe implementations of PNG ([png](https://crates.io/crates/png), [zune-png](https://crates.io/crates/zune-png), [wuffs](https://git",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4146516019",
+        "resolved_title": "Memory-safe PNG decoders now vastly outperform C PNG libraries",
+        "resolved_url": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/",
+        "tags": {
+            "rust": {
+                "item_id": "4146516019",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "news",
+        "word_count": "851"
+    },
+    {
+        "commentaire": "Des développeurs présentent leur projet nommé Limbo, une réécriture de la bibliothèque SQLite en Rust. Pour l'instant, le projet en est à son commencement, et est à l'état expérimental.",
+        "date_publication": "10/12/2024",
+        "excerpt": "2 years ago, we forked SQLite. We were huge fans of the embedded nature of SQLite, but longed for a more open model of development. libSQL was born as an Open Contribution project, and we invited the community to build it with us. As a result, libSQL is an astounding success.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4147181338",
+        "resolved_title": "Introducing Limbo: A complete rewrite of SQLite in Rust",
+        "resolved_url": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust",
+        "tags": {
+            "databases": {
+                "item_id": "4147181338",
+                "tag": "databases"
+            },
+            "rust": {
+                "item_id": "4147181338",
+                "tag": "rust"
+            },
+            "sqlite": {
+                "item_id": "4147181338",
+                "tag": "sqlite"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "7",
+        "type_info": "news",
+        "word_count": "1567"
+    },
+    {
+        "commentaire": "Diesel est un ORM (Mapping Objet-Relationnel), une interface pour interragir en langage Rust avec les SGBDR PostgreSQL, MySQL et SQLite. Cet article le compare avec d'autres ORM.",
+        "date_publication": "",
+        "excerpt": "This page aims to compare Diesel with various other crates that allow to connect to relational databases. Rust crates usually follow semantic versioning, which means the stability of Rust crates is mostly defined by their version. Any crate with an version greater than 1.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4148216489",
+        "resolved_title": "Compare Diesel",
+        "resolved_url": "https://diesel.rs/compare_diesel.html",
+        "tags": {
+            "databases": {
+                "item_id": "4148216489",
+                "tag": "databases"
+            },
+            "rust": {
+                "item_id": "4148216489",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "pedago",
+        "word_count": "1928"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Rust is the tech world's equivalent of the new kid on the block who’s great at sports, gets top grades, and can even play the guitar. It’s safe, fast, and promises to rid your codebase of the infamous memory bugs that have haunted your nightmares.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4152131029",
+        "resolved_title": "Why Rewriting Everything in Rust Won’t Solve All Your Problems",
+        "resolved_url": "https://dev.to/pranta/why-rewriting-everything-in-rust-wont-solve-all-your-problems-24d0",
+        "tags": {
+            "pedago": {
+                "item_id": "4152131029",
+                "tag": "pedago"
+            },
+            "rust": {
+                "item_id": "4152131029",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "4",
+        "type_info": "opinion",
+        "word_count": "932"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "I’ve been using Rust for hobby projects since 2016 and have been working professionally in Rust since 2021, so I tend to consider myself pretty knowledgeable about Rust.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4152872121",
+        "resolved_title": "Four limitations of Rust's borrow checker",
+        "resolved_url": "https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html",
+        "tags": {
+            "limitations": {
+                "item_id": "4152872121",
+                "tag": "limitations"
+            },
+            "pedago": {
+                "item_id": "4152872121",
+                "tag": "pedago"
+            },
+            "rust": {
+                "item_id": "4152872121",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "8",
+        "type_info": "",
+        "word_count": "1862"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "The choice between Rust and Go often arises when developers are tasked with building high-performance systems. Both languages were designed to address the shortcomings of older programming languages, yet they target slightly different use cases and philosophies.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4156478187",
+        "resolved_title": "Rust vs. Go: Choosing the Right Language for High-Performance Systems",
+        "resolved_url": "https://www.javacodegeeks.com/2024/12/rust-vs-go-choosing-the-right-language-for-high-performance-systems.html",
+        "tags": {
+            "comparaison": {
+                "item_id": "4156478187",
+                "tag": "comparaison"
+            },
+            "rust": {
+                "item_id": "4156478187",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "4",
+        "type_info": "",
+        "word_count": "954"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Allen Wyma talks with Lars Bergstrom, Director of Engineering at Google, about Google’s use of Rust within Android. Android is Google’s main mobile operating system deployed to over 3 billion devices around the world.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4157550487",
+        "resolved_title": "Rust in Google with Lars Bergstrom",
+        "resolved_url": "https://rustacean-station.org/episode/lars-bergstrom/",
+        "tags": {
+            "rust": {
+                "item_id": "4157550487",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "109"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Nearly every line of code I write for fun is in Rust. It's not because I need great performance, though that's a nice benefit. I write a lot of Rust because it's a joy to write code in. There is so much else to love about Rust beyond going fast without segfaults.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4159360935",
+        "resolved_title": "Great things about Rust that aren't just performance",
+        "resolved_url": "https://ntietz.com/blog/great-things-about-rust-beyond-perf/",
+        "tags": {
+            "rust": {
+                "item_id": "4159360935",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "1320"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "David G. Andersen January 04, 2025 Prologue: Well, in the spirit of 'own your own stuff', I've decided to claw back my blog onto self-ish hosted space (the blog is static, though I'm not hosting it on my own metal, so it's easy to migrate). Welcome to the new blog, same as the old blog.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4159445712",
+        "resolved_title": "On LLMs and Code Optimization",
+        "resolved_url": "https://wiredream.com/llm-optimizing-digit-diff/",
+        "tags": {
+            "llm": {
+                "item_id": "4159445712",
+                "tag": "llm"
+            },
+            "rust": {
+                "item_id": "4159445712",
+                "tag": "rust"
+            },
+            "test ia": {
+                "item_id": "4159445712",
+                "tag": "test ia"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "8",
+        "type_info": "",
+        "word_count": "1687"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "The Rust team is happy to announce a new version of Rust, 1.84.0. Rust is a programming language empowering everyone to build reliable and efficient software. If you don't have it already, you can get rustup from the appropriate page on our website, and check out the detailed release notes for 1.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4160670026",
+        "resolved_title": "Announcing Rust 1.84.0",
+        "resolved_url": "https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html",
+        "tags": {
+            "rust": {
+                "item_id": "4160670026",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "4",
+        "type_info": "",
+        "word_count": "908"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Web browsers today face increasing demands for both performance and privacy. At Brave, they’re tackling both challenges head-on with their Rust-based ad-blocking engine.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4160797552",
+        "resolved_title": "Brave - Anton Lazarev, Senior Software Engineer",
+        "resolved_url": "https://corrode.dev/podcast/s03e07-brave/",
+        "tags": {
+            "brave": {
+                "item_id": "4160797552",
+                "tag": "brave"
+            },
+            "navigateur": {
+                "item_id": "4160797552",
+                "tag": "navigateur"
+            },
+            "rust": {
+                "item_id": "4160797552",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "272"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Welcome to a new issue of 'This Month in Rust OSDev'. In these posts, we give a regular overview of notable changes in the Rust operating system development ecosystem. This series is openly developed on GitHub.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4161763065",
+        "resolved_title": "This Month in Rust OSDev: December 2024",
+        "resolved_url": "https://rust-osdev.com/this-month/2024-12/",
+        "tags": {
+            "rust": {
+                "item_id": "4161763065",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "2",
+        "type_info": "",
+        "word_count": "446"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Jet Brains Developers' Survey for 2024 ... Rust is still promising as a memory safe replacement for C++ with the highest popularily, along with Go Lang, among Developers who 'plan to adopt a new language.' Both languages have robust concurrency in mind.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4163096532",
+        "resolved_title": "Rust is Still Promising as a Replacement for C++",
+        "resolved_url": "https://dev.to/bijkler/rust-is-still-promising-as-a-replacement-for-c-3aec",
+        "tags": {
+            "comparaison": {
+                "item_id": "4163096532",
+                "tag": "comparaison"
+            },
+            "rust": {
+                "item_id": "4163096532",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "40"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "It’s clear WebAssembly is one of the more popular up-and-coming technologies out there. Its promise, a universal executable format, is not new. In fact it dates back to 1995 (almost thirty years ago!) with Java.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4163229024",
+        "resolved_title": "A Gentle Introduction to WebAssembly in Rust (2025 Edition)",
+        "resolved_url": "https://dev.to/marktolmacs/a-gentle-introduction-to-webassembly-in-rust-2025-edition-1iac",
+        "tags": {
+            "rust": {
+                "item_id": "4163229024",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "17",
+        "type_info": "",
+        "word_count": "3765"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Happy New Year! 🥳 Here’s to another year of growth, innovation, and, of course, writing safer, faster, and more reliable code.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4164457594",
+        "resolved_title": "57 - Start 2025 with Rust: Honeypots, Free Cloud Deployments, and Software Reliability.",
+        "resolved_url": "https://rust-trends.com/newsletter/start-2025-with-rust-honeypots-free-cloud-deployments-and-software-reliability/",
+        "tags": {
+            "rust": {
+                "item_id": "4164457594",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "920"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "We at Serokell love Rust. We also love functional languages like Haskell and OCaml. However, there appears to be a bit of confusion as to whether Rust can be called a functional language, too. This article purports to dispel this confusion.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4166550016",
+        "resolved_title": "Why Rust is not a functional language",
+        "resolved_url": "https://serokell.io/blog/rust-is-not-a-functional-language",
+        "tags": {
+            "rust": {
+                "item_id": "4166550016",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "17",
+        "type_info": "",
+        "word_count": "3842"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Applications that run documents through LLMs or embedding models need to clean the text before feeding it into the model. I'm building a personalized content feed called Scour and was looking for a Rust crate to extract text from scraped HTML.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4166577741",
+        "resolved_title": "Comparing 13 Rust Crates for Extracting Text from HTML",
+        "resolved_url": "https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/",
+        "tags": {
+            "rust": {
+                "item_id": "4166577741",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "7",
+        "type_info": "",
+        "word_count": "1506"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "There has been a slight decline in engagement with traditional programming languages while interest in AI skills has increased significantly, according to new research from O’Reilly.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4167034760",
+        "resolved_title": "Interest in traditional programming languages is declining : Some developers are shunning Java, Python, and C++ in favor of Rust – and the rise of AI could be the cause",
+        "resolved_url": "https://www.itpro.com/software/development/declining-interest-in-traditional-coding-languages-mirrored-by-uptick-in-ai-skills-demand",
+        "tags": {
+            "rust": {
+                "item_id": "4167034760",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "3",
+        "type_info": "",
+        "word_count": "593"
+    },
+    {
+        "commentaire": "Linux Trovalds, le fondateur et leader du projet Linux, répond aux critiques, confirme son choix d'inclure Rust dans le noyau Linux et demande à la communauté de s'y adapter.",
+        "date_publication": "",
+        "excerpt": "You've probably at least heard about what's going on with Rust in the Linux kernel and it looks like we're hopefully reaching the climax of this saga as Linus Torvalds finally steps in.\n\n==========Support The Channel==========\n► Patreon: https://brodierobertson.xyz/patreon\n► Paypal: https://brod",
+        "has_video": "2",
+        "is_article": "0",
+        "item_id": "4183018863",
+        "resolved_title": "Linus Torvalds Puts An End To Rust For Linux Drama",
+        "resolved_url": "https://www.youtube.com/watch?v=UsNGzCrXtuI ",
+        "tags": {
+            "linux": {
+                "item_id": "4183018863",
+                "tag": "linux"
+            },
+            "rust": {
+                "item_id": "4183018863",
+                "tag": "rust"
+            }
+        },
+        "time_added": "27/02/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "0"
+    },
+    {
+        "commentaire": "RustConf2024, une conférence à propos de Rust organisée par la fondation",
+        "date_publication": "03/10/2024",
+        "excerpt": "The Rust Foundation was thrilled to organize and host RustConf for the first time in 2024. While this beloved Rust programming language community gathering has taken place for many years, this marks the first year the Foundation has managed the event without using an external contractor.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4188506654",
+        "resolved_title": "Thanks For Joining Us at RustConf 2024",
+        "resolved_url": "https://rustfoundation.org/media/thanks-for-joining-us-at-rustconf-2024/ ",
+        "tags": {
+            "rust": {
+                "item_id": "4188506654",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "2",
+        "type_info": "",
+        "word_count": "546"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "14/10/2024",
+        "excerpt": "The Rust Foundation’s Community Grants Program supports Rust programming language maintainers, community members, and organizers via financial awards, travel stipends, and training support.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4188507726",
+        "resolved_title": "Announcing the Rust Foundation’s 2024 Fellows",
+        "resolved_url": "https://rustfoundation.org/media/announcing-the-rust-foundations-2024-fellows/",
+        "tags": {
+            "rust": {
+                "item_id": "4188507726",
+                "tag": "rust"
+            },
+            "récompenses": {
+                "item_id": "4188507726",
+                "tag": "récompenses"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "10",
+        "type_info": "",
+        "word_count": "2120"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "The Rust Foundation is thrilled to announce that Carol Nichols has been elected as the newest Rust Foundation Project Director.",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4188522201",
+        "resolved_title": "Announcing the Rust Foundation’s Newest Project Director: Carol Nichols",
+        "resolved_url": "https://rustfoundation.org/media/announcing-the-rust-foundations-newest-project-director-carol-nichols/",
+        "tags": {
+            "rust": {
+                "item_id": "4188522201",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "2",
+        "type_info": "",
+        "word_count": "340"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "Today, Amazon Web Services (AWS) announced a collaborative initiative aimed at verifying the safety of the Rust standard libraries. The Rust Foundation has reviewed the plans behind this effort and is excited to serve as host!",
+        "has_video": "0",
+        "is_article": "1",
+        "item_id": "4188522236",
+        "resolved_title": "Rust Foundation Collaborates With AWS Initiative to Verify Rust Standard Libraries",
+        "resolved_url": "https://rustfoundation.org/media/rust-foundation-collaborates-with-aws-initiative-to-verify-rust-standard-libraries/",
+        "tags": {
+            "rust": {
+                "item_id": "4188522236",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "261"
+    },
+    {
+        "commentaire": "",
+        "date_publication": "",
+        "excerpt": "_Note: This video contains hardcoded subtitles. For the most accurate English video transcription, please enable YouTube subtitles and select 'English' under YouTube's subtitles/CC settings. We recommend increasing caption size to 200% and setting background opacity to 100% under subtitle options._",
+        "has_video": "2",
+        "is_article": "0",
+        "item_id": "4188524690",
+        "resolved_title": "1Password, Adobe, Woven by Toyota: Gold Sponsor Lightning Talks | RustConf 2024",
+        "resolved_url": "https://www.youtube.com/watch?v=EY2KT0QZnkg",
+        "tags": {
+            "rust": {
+                "item_id": "4188524690",
+                "tag": "rust"
+            }
+        },
+        "time_added": "12/03/2025",
+        "time_to_read": "0",
+        "type_info": "",
+        "word_count": "0"
+    }
+]
