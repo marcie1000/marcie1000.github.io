@@ -11,7 +11,7 @@ template.innerHTML = `
                 <div class="headerElem"><a href="travaux.html">Travaux réalisés en BTS SIO</a></div>
                 <div class="headerElem"><a href="projets.html">Projets</a></div>
                 <div class="headerElem"><a href="certifications.html">Certifications</a></div>
-                <div class="headerElem"><a href="docs/CV.pdf">CV</a></div>
+                <div class="headerElem"><a href="docs/CV.pdf.html">CV</a></div>
             </div>
             <div class="topMargin"></br></div>
         </header>
