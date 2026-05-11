@@ -18,6 +18,18 @@ body {
     align-items: center;
 }
 
+* {
+    @media (min-width: 00px) {
+        font-size: 8px;
+    }
+    @media (min-width: 600px) {
+        font-size: 12px;
+    }
+    @media (min-width: 750px) {
+        font-size: 15px;
+    }
+}
+
 .headerElem {
     /* background-color: purple */
     border: none;
@@ -60,6 +72,9 @@ body {
             font-size: 40px;
             margin-bottom: 0;
         }
+        h2 {
+            font-size: 15px;
+        }
         .bigImageArticle {
             img {
                 max-width: 300px;
@@ -72,6 +87,9 @@ body {
         h1 {
             font-size: 60px;
             margin-bottom: 0;
+        }
+        h2 {
+            font-size: 20px;
         }
         .bigImageArticle {
             img {
@@ -99,6 +117,17 @@ body {
 .tabComp {
     td {
         padding: 1vw;
+        text-align: center;
+    }
+}
+
+.tabCert {
+    td {
+        width: 14vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        padding-left: 1vw;
+        padding-right: 1vw;
         text-align: center;
     }
 }
@@ -154,6 +183,11 @@ body {
 .legende {
     text-align: center;
     font-style: italic;
+}
+
+.licenceImg {
+    color: #848484;
+    font-size: 8px;
 }
 
 summary {

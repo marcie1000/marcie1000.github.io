@@ -4,14 +4,14 @@ template.innerHTML = `
         <header>
             <div class="myHeader">
                 <div class="headerElem">
-                    <a href="index.html">Portefolio</a>
+                    <a href="index.html">Accueil</a>
                 </div>
                 <!-- <div class="headerElem"><a>Présentation</a></div> -->
                 <div class="headerElem"><a href="competences.html">Compétences</a></div>
                 <div class="headerElem"><a href="travaux.html">Travaux réalisés en BTS SIO</a></div>
                 <div class="headerElem"><a href="projets.html">Projets</a></div>
-                <div class="headerElem"><a>Certifications</a></div>
-                <div class="headerElem"><a>CV</a></div>
+                <div class="headerElem"><a href="certifications.html">Certifications</a></div>
+                <div class="headerElem"><a href="docs/cv.pdf.html">CV</a></div>
             </div>
             <div class="topMargin"></br></div>
         </header>
