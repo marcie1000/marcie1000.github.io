@@ -1,0 +1,84 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Se désabonner</title>
+    <meta name="description" content="">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <script src="script.js"></script>
+    <script src="draw_list.js"></script>
+    <script src="scripting.js"></script>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/xp.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <!-- Place favicon.ico in the root directory -->
+
+  </head>
+  <body id="theBody" onload="loadCanvas();" style="margin: 0px;">
+    <div id="mainDialog" style="z-index: 3; position: absolute; top: 5px; left: 5px;">
+
+      <div class="window" style="margin: 32px; width: 300px">
+      <div class="title-bar">
+        <div class="title-bar-text" id="mainDialogTitle">
+            Votre ordinateur est INFERCTER
+        </div>
+
+        <div class="title-bar-controls">
+          <button aria-label="Minimize"></button>
+          <button aria-label="Maximize"></button>
+          <button aria-label="Close"></button>
+        </div>
+      </div>
+      <div class="window-body">
+        <p id="mainDialogText">Votre ordinateur est malheureusement INFECTER par un virus eh oui ces ce qui arrives
+        quand on clique sur n'importe quel lien veuillez cliquer IMMÉDIATEMENT sur ce bouton pour
+        désinfecter votre ordinateru ou votre smartphone sa marche aussi en vrai</p>
+        <section class="field-row" style="justify-content: flex-end">
+          <button id="jeSouhaite" onclick="testScripting()">Je souhaite désinfecter IMMEDIATEMENT mon appareil</button>
+        </section>
+      </div>
+      </div>
+
+    </div>
+    <div id='spDial' hidden='true' style="z-index: 3; position: absolute;">
+      <div class='window' style='margin: 32px; width: 200px;''>
+            <div class='title-bar'>
+            <div id='spTitleBarText' class='title-bar-text'>
+                Question
+            </div>
+
+            <div class='title-bar-controls'>
+                <button aria-label='Close'></button>
+            </div>
+            </div>
+            <div class='window-body'>
+                <div id='spBody'></div>
+                <section class='field-row' style='justify-content: flex-end'>
+                    <button id='spButton1' onclick='curScr.executeListener("spButton1")'>Euuuuh...</button>
+                    <button id='spButton2' onclick='curScr.executeListener("spButton2")'>Non non tkt ^^</button>
+                </section>
+            </div>
+      </div>
+    </div>
+    <div id='cookieBaniere' style="z-index: 4; position: absolute; left: 0px; top: 50%; background-color: yellow; width: 100vw; height: 50%; text-align: center;" hidden >
+      <div style="margin: 50px; font-size: 30px;" class="plus-jakarta-sans-700">
+        <p class=texte-cookies>Ce site utilise des COOKIES</p>
+        <button onclick='curScr.executeListener("spButton1")' id="button-refuser-cookies" class="texte-cookies" style="background: black; color: white; height: 50px; margin-left: 25%; margin-right: 25%;" hidden>REFUSER LES COOKIES</button>
+        <p id=ligne-cachee-guedj style="color: red; font-size: 15px;" hidden>En cliquant sur ce bouton j'accepte de voter pour M. Jérôme GUEDJ à la primaire du Parti Socialiste.</p>
+      </div>
+
+    </div>
+    <div id="canvasContainer" style="margin: 0px;">
+      <canvas style="z-index: 2;" id="myCanvas"></canvas><br>
+    </div>
+
+
+
+  </body>
+</html>

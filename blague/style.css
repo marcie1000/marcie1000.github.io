@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+canvas {
+    border: 2px solid black;
+}
+
+.window, button {
+    font-size: 14px !important;
+}
+
+.texte-cookies {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  text-decoration-thickness: 6px;
+}
